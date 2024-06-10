@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🪴 Joonheyok's Digital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       "**/*.pdf",
       "**/*.encrypted",
       "**/*.mp4",
-      "Attachments/!(public-|Public)*.*",
+      "Attachment/!(public-|Public-)*.*",
     ],
     defaultDateType: "created",
     theme: {
