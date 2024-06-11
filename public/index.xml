@@ -6,11 +6,35 @@
       <description>Last 10 notes on 🪴 Joonheyok&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>FCP, LCP, and TBT</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/FCP,-LCP,-and-TBT</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/FCP,-LCP,-and-TBT</guid>
+    <description>FCP measures the time from when the page starts loading to when any part of the page’s content is rendered on the screen. This includes text, images, SVGs, and non-white canvas elements.</description>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Metadata Object</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Metadata-Object</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Metadata-Object</guid>
+    <description>Source: nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph import { Metadata } from &#039;next&#039; // either Static metadata export const metadata: ...</description>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Optimization of website</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization-of-website</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization-of-website</guid>
+    <description>Use LightHouse to analyze the performance of you website. See TTFB and FCP, LCP, and TBT to get familiar with important performance metrics. Then read How to improve TTFB and How to improve FCP, LCP, and TBT to start optimizing your website.</description>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is my home Useful template OKR template .</description>
+    <description>This is my home Engineering Notes Useful template OKR template .</description>
     <pubDate>Mon, 10 Jun 2024 17:33:08 GMT</pubDate>
+  </item><item>
+    <title>Bundle analyzer</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Bundle-analyzer</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Bundle-analyzer</guid>
+    <description>How to configure bundle analyzer Install the bundle analysis package. npm install --save-dev @next/bundle-analyzer Then configure nextjs.config to use the package.</description>
+    <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>OKR template</title>
     <link>https://quartz.jzhao.xyz/Attachment/Templates/OKR-template</link>
