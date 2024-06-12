@@ -24,6 +24,12 @@
     <description>Use LightHouse to analyze the performance of you website. See TTFB and FCP, LCP, and TBT to get familiar with important performance metrics. Then read How to improve TTFB and How to improve FCP, LCP, and TBT to start optimizing your website.</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
+    <title>TTFB</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/TTFB</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/TTFB</guid>
+    <description>Time to First Byte (TTFB) is a metric that measures the time it takes for a user’s browser to receive the first byte of data from the server after making an HTTP request ...</description>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
@@ -41,6 +47,12 @@
     <guid>https://quartz.jzhao.xyz/Attachment/Templates/OKR-template</guid>
     <description>Objective Set up3-5 high level, ambitious and qualitative goals that align with core values. Each objective should be also time-bound Write your objective Key Results How can I measure the progress? How can this outcome contribute to your mission? Write your key results Why? Why this goal is important to you? .</description>
     <pubDate>Sun, 02 Jun 2024 16:28:38 GMT</pubDate>
+  </item><item>
+    <title>LightHouse</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/LightHouse</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/LightHouse</guid>
+    <description>You can use Chrome extension or this website lighthouse-metrics.com/ to run analysis of your website.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Prompts for developers</title>
     <link>https://quartz.jzhao.xyz/3.-Resources/Prompts-for-developers</link>
