@@ -6,34 +6,34 @@
       <description>Last 10 notes on 🪴 Joonheyok&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>FCP, LCP, and TBT</title>
-    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/FCP,-LCP,-and-TBT</link>
-    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/FCP,-LCP,-and-TBT</guid>
-    <description>FCP measures the time from when the page starts loading to when any part of the page’s content is rendered on the screen. This includes text, images, SVGs, and non-white canvas elements.</description>
-    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Metadata Object</title>
     <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Metadata-Object</link>
     <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Next/Metadata-Object</guid>
     <description>Source: nextjs.org/docs/app/api-reference/functions/generate-metadata#opengraph import { Metadata } from &#039;next&#039; // either Static metadata export const metadata: ...</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
+    <title>FCP, LCP, and TBT</title>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/FCP,-LCP,-and-TBT</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/FCP,-LCP,-and-TBT</guid>
+    <description>FCP measures the time from when the page starts loading to when any part of the page’s content is rendered on the screen. This includes text, images, SVGs, and non-white canvas elements.</description>
+    <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Optimization of website</title>
-    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization-of-website</link>
-    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization-of-website</guid>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/Optimization-of-website</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/Optimization-of-website</guid>
     <description>Use LightHouse to analyze the performance of you website. See TTFB and FCP, LCP, and TBT to get familiar with important performance metrics. Then read How to improve TTFB and How to improve FCP, LCP, and TBT to start optimizing your website.</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>TTFB</title>
-    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/TTFB</link>
-    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/TTFB</guid>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/TTFB</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/TTFB</guid>
     <description>Time to First Byte (TTFB) is a metric that measures the time it takes for a user’s browser to receive the first byte of data from the server after making an HTTP request ...</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is my home Engineering Notes Useful template OKR template .</description>
+    <description>This is my home Engineering Notes Useful template OKR template What to ask for weekly review .</description>
     <pubDate>Mon, 10 Jun 2024 17:33:08 GMT</pubDate>
   </item><item>
     <title>Bundle analyzer</title>
@@ -49,16 +49,22 @@
     <pubDate>Sun, 02 Jun 2024 16:28:38 GMT</pubDate>
   </item><item>
     <title>LightHouse</title>
-    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/LightHouse</link>
-    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/LightHouse</guid>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/LightHouse</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/Frontend/Optimization/LightHouse</guid>
     <description>You can use Chrome extension or this website lighthouse-metrics.com/ to run analysis of your website.</description>
     <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Prompts for developers</title>
-    <link>https://quartz.jzhao.xyz/3.-Resources/Prompts-for-developers</link>
-    <guid>https://quartz.jzhao.xyz/3.-Resources/Prompts-for-developers</guid>
+    <link>https://quartz.jzhao.xyz/3.-Resources/Engineering/AI/Prompts-for-developers</link>
+    <guid>https://quartz.jzhao.xyz/3.-Resources/Engineering/AI/Prompts-for-developers</guid>
     <description>The very first thing we have to figure out is the workflow you have and the find the bottleneck The worst case you can use AI Use cases Regex is the perfect use case to use ChatGPT for developers ...</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>What to ask for weekly review</title>
+    <link>https://quartz.jzhao.xyz/2.-Areas/Journals/Weekly-review-2024/What-to-ask-for-weekly-review</link>
+    <guid>https://quartz.jzhao.xyz/2.-Areas/Journals/Weekly-review-2024/What-to-ask-for-weekly-review</guid>
+    <description>Weekly review What were my biggest wins of the week? What were my biggest lessons of the week? Did I make any key decisions this week? What am I most excited about for the upcoming week? ...</description>
+    <pubDate>Sat, 17 Feb 2024 19:49:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
